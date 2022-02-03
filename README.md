@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Glauco Vieira</h1>
 <h3 align="center">A passionate Innovation and Technology from Brasil</h3>
 
-
-
+- 🔭 I’m currently **open to work**
 - 🌱 I’m currently learning **Html, Css, JavaScript, Node.Js, React Native, ReactJs**
+- 💬 Ask me about **IT, Innovation, Infrastructure, Systems, Services, Dev Html-CSS-Java**
 - 📫 How to reach me **glaucopv@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/glauco-vieira/](https://www.linkedin.com/in/glauco-vieira/)
+- ⚡ Fun fact **I like play socccer, and like play the guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
