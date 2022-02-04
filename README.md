@@ -17,12 +17,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&locale=en" alt="glaucopv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&" alt="glaucopv" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/glauco_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glauco_02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/glauco-vieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glauco-vieira" height="30" width="40" /></a>
 <a href="https://instagram.com/glauco_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glauco_02" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/glaucopv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="glaucopv" height="30" width="40" /></a>
+<a href="https://discord.gg/glaucopvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="glaucopvieira" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/glauco_02" target="blank"><img src="https://img.shields.io/twitter/follow/glauco_02?logo=twitter&style=for-the-badge" alt="glauco_02" /></a> </p>
 
