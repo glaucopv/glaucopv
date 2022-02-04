@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/glauco_02" target="blank"><img src="https://img.shields.io/twitter/follow/glauco_02?logo=twitter&style=for-the-badge" alt="glauco_02" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/glauco_02" target="blank"><img src="https://img.shields.io/twitter/follow/glauco_02?logo=twitter&style=for-the-badge" alt="glauco_02" /></a> </p>
 -->
