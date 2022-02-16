@@ -1,5 +1,5 @@
 <p align="left">
-  <img widht="360em" height="180em" src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <!--How to make this gif ?
@@ -12,9 +12,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 - 🔭 I’m currently **open to work**
 - 🌱 I’m currently learning **Html, Css, JavaScript, Node.Js, React Native, ReactJs**
-- 💬 Ask me about **IT, Innovation, Infrastructure, Systems, Services, bootcamps, Fullstacks, Developer**
 - 📫 How to reach me **glaucopv@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/glauco-vieira/](https://www.linkedin.com/in/glauco-vieira/)
 - ⚡ Fun fact **I like play socccer, and like play the guitar**
 
 <h3 align="left">📊 GitHub Stats</h3>
