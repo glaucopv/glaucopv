@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img height="180em" src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <!--How to make this gif ?
@@ -32,7 +32,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img align="center" alt="Glauco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Glauco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Glauco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Glauco-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941074501066715196/943590955242639360/Anime-glauco.gif?width=476&height=476">
+  <img align="right" alt="Glauco-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941074501066715196/943590955242639360/Anime-glauco.gif?width=676&height=676">
 </div>
 
  ##   
