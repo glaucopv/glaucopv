@@ -1,5 +1,5 @@
-<p align="center">
-  <img widht="180em" height="180em" src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+<p align="left">
+  <img widht="360em" height="180em" src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <!--How to make this gif ?
