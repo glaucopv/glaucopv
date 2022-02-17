@@ -16,15 +16,12 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - ⚡ Fun fact **I like play socccer, and like play the guitar**
 
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
-
 <div align="left">
   <a href="https://github.com/glaucopv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=9&theme=dracula"/> -->
 </div>
-
-
  <!--<h3 align="left">Languages and Tools:</h3>-->
  <div style="display: inline_block"><br>
   <img align="center" alt="Glauco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,7 +38,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
  </div>
 
  ##   
-  
+ 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left"> 
   <a href="https://www.youtube.com/channel/UCgwHrttKm6ahtWxbTsd93Qw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /></a>
