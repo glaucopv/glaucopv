@@ -15,7 +15,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 📫 How to reach me **glaucopv@gmail.com**
 - ⚡ Fun fact **I like play socccer, and like play the guitar**
 
-<h3 align="left">📊 GitHub Stats</h3>
+<!--<h3 align="left">📊 GitHub Stats</h3>-->
 
 <div align="left">
   <a href="https://github.com/glaucopv">
