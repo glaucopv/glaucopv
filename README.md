@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-vieira.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
@@ -17,10 +17,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/glaucopv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"  alt="glaucopv" />
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&" alt="glaucopv" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=9&theme=dracula"/> -->
 </div>
 
