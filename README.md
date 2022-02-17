@@ -37,8 +37,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img align="center" alt="Glauco-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Glauco-GitHub" height="30" width="40" background="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
   <img align="right" alt="Glauco-pic" height="150" style="border-radius:50px;" src="https://github.com/glaucopv/glaucopv/raw/main/assets/Anime-glauco.png?width=676&height=676">
-</p>
- </div>
+</div>
 
  ##   
  
