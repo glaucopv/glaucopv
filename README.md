@@ -20,7 +20,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://github.com/glaucopv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=9&theme=dracula"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&theme=dracula"/> -->
 </div>
  <!--<h3 align="left">Languages and Tools:</h3>-->
  <div style="display: inline_block"><br>
@@ -33,6 +33,9 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img align="center" alt="Glauco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Glauco-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
   <img align="center" alt="Glauco-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Glauco-Kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="Glauco-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Glauco-GitHub" height="30" width="40" background="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
   <img align="right" alt="Glauco-pic" height="150" style="border-radius:50px;" src="https://github.com/glaucopv/glaucopv/raw/main/assets/Anime-glauco.png?width=676&height=676">
 </p>
  </div>
