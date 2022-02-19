@@ -11,7 +11,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 -->
 
 - 🔭 I’m currently **open to work**
-- 🌱 I’m currently learning **Html, Css, JavaScript, Node.Js, React Native, ReactJs**
+- 🌱 I’m currently learning **Cloud Computer, ioT, Devops, JavaScript, Node.Js, React Native, ReactJs**
 - 📫 How to reach me **glaucopv@gmail.com**
 - ⚡ Fun fact **I like play socccer, and like play the guitar**
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
