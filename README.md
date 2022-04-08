@@ -10,8 +10,8 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 I’m currently **open to work**
-- 🌱 I’m currently learning **Cloud Computer, Dev Test, ioT, Devops, Cyber Security, Fullstack Developer**
+- 🔭 I’m currently **Test Developer IV**
+- 🌱 I’m currently learning **Cloud Computer, Test Developer, ioT, Devops, Cyber Security, Fullstack Developer**
 - 📫 How to reach me **glaucopv@gmail.com**
 - ⚡ Fun fact **I like play socccer, and like play the guitar**
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
