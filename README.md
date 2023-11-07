@@ -18,8 +18,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
 <div align="left">
   <a href="https://github.com/glaucopv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&theme=dracula"/> -->
 </div> 
  <!--<h3 align="left">Languages and Tools:</h3>-->
