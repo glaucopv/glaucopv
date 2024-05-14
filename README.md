@@ -24,8 +24,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 
 ### About me:
+- 😄 Fun fact: **I like play socccer, and like play the guitar**
+- 🔭 **I look to collaborate on social and community projects**
 - 📫 How to reach me **glaucopv@gmail.com**
-- ⚡ Fun fact **I like play socccer, and like play the guitar**
+- 💬 **Ask me about everything**
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
