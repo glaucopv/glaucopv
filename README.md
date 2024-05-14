@@ -11,7 +11,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 -->
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend🤔 
 - 🔭 I’m currently **Test Developer**
-
 - 🌱 I’m currently learning **Cloud Computer, Test Developer, ioT, Devops, Cyber Security, Fullstack Developer**
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
@@ -20,14 +19,14 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 5+ years of experience in Environment configuration (Linux, Windows, Docker, Networks), await
 - 3+ years of experience in Automated tests (Selenium, Appium), Testing methodologies (black box, exploratory, usability)
 - 1+ years of experience in Oracle Cloud, AWS
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
+- ❤️ API, RESTful API, GraphQL, HTML/CSS, Javascript
 - Containers, Kubernetes, Git, GitHub, Jira, Redmine, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 
 ### About me:
 - 📫 How to reach me **glaucopv@gmail.com**
 - ⚡ Fun fact **I like play socccer, and like play the guitar**
+  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
 <div align="left">
