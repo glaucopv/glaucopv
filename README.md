@@ -8,8 +8,8 @@ I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
 This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend🤔 
+
+❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend🤔 -->
 - 🔭 I’m currently **Test Developer**
 - 🌱 I’m currently learning **Cloud Computer, ioT, Devops, Cyber Security, Fullstack Developer**
 
@@ -29,8 +29,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 📫 How to reach me **glaucopv@gmail.com**
 - 💬 **Ask me about everything**
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
-<!--<h3 align="left">📊 GitHub Stats</h3>-->
+ <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
+<h3 align="left">📊 GitHub Stats</h3>-->
 <div align="left">
   <a href="https://github.com/glaucopv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
