@@ -29,8 +29,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 📫 How to reach me **glaucopv@gmail.com**
 - 💬 **Ask me about everything**
   
- <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
-<h3 align="left">📊 GitHub Stats</h3>-->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
+<!--<h3 align="left">📊 GitHub Stats</h3>-->
 <div align="left">
   <a href="https://github.com/glaucopv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
