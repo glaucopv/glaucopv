@@ -13,7 +13,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 🔭 I’m currently **QA Analyst**
 - 🌱 I’m currently learning **Test Developer, Cloud Computer, ioT, Devops, Cyber Security, Fullstack Developer**
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<!--img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"-->
 
 ### My stack:
 - 5+ years of experience in Environment configuration (Linux, Windows, Docker, Networks), await
