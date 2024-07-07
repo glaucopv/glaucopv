@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-devops.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+  <!--<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>-->
 </p>
 
 <!--How to make this gif ?
@@ -23,6 +23,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - ❤️ API, RESTful API, GraphQL, HTML/CSS, Javascript
 - Containers, Kubernetes, Git, GitHub, Jira, Redmine, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
+  
+<img align="right" alt="Glauco-pic" height="150" style="border-radius:50px;" src="https://github.com/glaucopv/glaucopv/raw/main/assets/Anime-glauco.png?width=676&height=676"> 
 
 ### About me:
 - 😄 Fun fact: **I like play socccer, and like play the guitar**
@@ -30,6 +32,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 📫 How to reach me **glaucopv@gmail.com**
 - 💬 **Ask me about everything**
   
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
 <!--<div align="left">
@@ -42,6 +45,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ### Languages and Tools:    
  <!--<h3 align="left">Languages and Tools:</h3>-->
  <div style="display: inline_block"><br>
+   
+ 
   <img align="center" alt="Glauco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Glauco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Glauco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -54,10 +59,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img align="center" alt="Glauco-Kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Glauco-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Glauco-GitHub" height="30" width="40" background="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
-  <img align="right" alt="Glauco-pic" height="150" style="border-radius:50px;" src="https://github.com/glaucopv/glaucopv/raw/main/assets/Anime-glauco.png?width=676&height=676">
+  
 </div>
 
- ## Connect with me:   
+ ### Connect with me:   
  
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left"> 
@@ -70,14 +75,15 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)-->
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
 <div align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
   <a href="https://github.com/glaucopv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&theme=dracula"/> -->
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&theme=dracula"/>-->
 </div> 
+
     
   ![Snake animation](https://raw.githubusercontent.com/glaucopv/glaucopv/output/github-contribution-grid-snake-dark.svg)
 
