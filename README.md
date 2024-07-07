@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-devops.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
 </p>
 
 <!--How to make this gif ?
