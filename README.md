@@ -74,7 +74,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
    <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)-->
 </p>
 
-<div align="center" >
+<!--<div align="center" >
 <a  href="https://github.com/glaucopv">
 
 <img src="https://raw.githubusercontent.com/glaucopv/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
@@ -90,10 +90,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 </details>
   
-<hr></hr>
+<hr></hr>-->
 
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
-<!--<div align="left">
+<div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
   <a href="https://github.com/glaucopv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
