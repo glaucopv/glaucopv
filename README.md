@@ -71,12 +71,29 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://discord.gg/glaucopvieira#2799" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a> 
   <a href = "mailto:glaucopv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/glauco-vieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>   
- 
-  <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)-->
+   <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)-->
 </p>
 
+<div align="center" >
+<a  href="https://github.com/glaucopv">
+
+<img src="https://raw.githubusercontent.com/glaucopv/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/glaucopv/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/glaucopv/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/glaucopv/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
+
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
-<div align="left">
+<!--<div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
   <a href="https://github.com/glaucopv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
