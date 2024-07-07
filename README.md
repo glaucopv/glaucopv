@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-devops.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/glauco-qa-analyst.gif" alt="Hi, I'm a Glauco 👋 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
   <img src="https://github.com/glaucopv/glaucopv/raw/main/assets/Analista-de-QA.png" alt="Analista-de-QA"  width="50%"/><br>
 </p>
 
