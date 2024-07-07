@@ -68,14 +68,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)-->
 </p>
 
-
-
-
-
-
-
-
-
 <!--
 **glaucopv/glaucopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
