@@ -11,7 +11,7 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend🤔 -->
-- 🔭 I’m currently **QA Analyst**
+- 🔭 I’m currently **QA Analyst with expertise in Process Automation**
 - 🌱 I’m currently learning **Test Developer, Cloud Computer, ioT, Devops, Cyber Security, Fullstack Developer**
 
 <!--img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"-->
