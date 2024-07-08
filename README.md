@@ -32,16 +32,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 - 📫 How to reach me **glaucopv@gmail.com**
 - 💬 **Ask me about everything**
   
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
-<!--<h3 align="left">📊 GitHub Stats</h3>-->
-<!--<div align="left">
-  <a href="https://github.com/glaucopv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&theme=dracula"/> -->
-</div> 
-
 ##
 
 <h2 style="text-align:left">Languages, Frameworks and Tools:</h2>
@@ -79,8 +69,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" width="40" alt="git logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  
-  
 </div>
 
 ###
@@ -96,8 +84,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
-
-###
 
 ### <h2 style="text-align:left">Connect with me:</h2>   
 
@@ -126,7 +112,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://github.com/glaucopv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&" />
-
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&&theme=tokyonight"/>-->
 </div> 
     
