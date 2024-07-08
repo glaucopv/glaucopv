@@ -100,16 +100,25 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ###
 
 ### <h2 style="text-align:left">Connect with me:</h2>   
- 
+
 <!--<h3 align="left">Connect with me:</h3>-->
+<p align="left">
+<a href="https://twitter.com/glauco_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glauco_02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/glauco-vieira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/glauco-vieira/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/glauco_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/glauco_02/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@glaucopv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@glaucopv" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/glaucopvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/glaucopvieira" height="30" width="40" /></a>
+</p>
+ 
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left"> 
   <a href="https://www.youtube.com/channel/UCgwHrttKm6ahtWxbTsd93Qw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /></a>
   <a href="https://instagram.com/glauco_02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="https://discord.gg/glaucopvieira#2799" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a> 
   <a href = "mailto:glaucopv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/glauco-vieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>   
-  <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)-->
-</p>
+  <!--![snake gif](https://github.com/glaucopv/glaucopv/blob/output/github-contribution-grid-snake.svg)
+</p>-->
 
 <!--<h3 align="left">📊 GitHub Stats</h3>-->
 <div align="left">
