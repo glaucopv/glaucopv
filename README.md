@@ -124,11 +124,20 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaucopv&label=Profile%20views&color=0e75b6&style=flat" alt="glaucopv" /> </p>
   <a href="https://github.com/glaucopv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glaucopv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucopv&theme=tokyonight&&" />
+
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&langs_count=12&&theme=tokyonight"/>-->
- 
 </div> 
+    
+<details>
+  <summary>More stats</summary>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&hide_title=false&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="250" alt="languages graph"  />
+
+</details>
+  
+<hr></hr>
     
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopv&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=6&hide_border=true)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=glaucopv&line_height=20px&custom_title=Estatísticas&locale=pt-br&show_icons=true&count_private=true&layout=compact&hide_border=true)-->
