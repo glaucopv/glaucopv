@@ -6,13 +6,13 @@
 <!--How to make this gif ?
 
 I made my with https://codesandbox.io/s/github-profile-2ijk7
+
 Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
 This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
-
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend🤔 -->
 - 🔭 Acting as a **Software Test Analyst**, I carried out tests on mobile devices and ensured product quality through automated and manual tests, actively collaborating on Android application launch projects.
-- 🌱 I’m currently learning **Test Developer, Cloud Computer, ioT, Devops, Cyber Security, Fullstack Developer**
+- 🌱 I am currently learning about **Testing/QA Development, Cloud Computing, IoT, Devops, Cyber ​​Security, Fullstack Development.**
 
 <!--img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"-->
 
