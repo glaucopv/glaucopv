@@ -2,7 +2,7 @@
 
 **QA Engineer | SDET | Test Automation | Reliability Engineering (SRE Path)**
 
-Quality-focused engineer with **5+ years of experience** in test automation, API testing, CI/CD pipelines and cloud environments, currently transitioning toward **Site Reliability Engineering (SRE)**.
+Quality-focused engineer with **6+ years of experience** in test automation, API testing, CI/CD pipelines and cloud environments, currently transitioning toward **Site Reliability Engineering (SRE)**.
 
 ---
 
