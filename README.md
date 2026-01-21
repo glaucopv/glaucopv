@@ -1,56 +1,73 @@
 # 👋 Hi, I'm Glauco Vieira
 
-**Software Test Analyst | Test Automation | QA Engineer**
+**QA Engineer | SDET | Test Automation | Reliability Engineering (SRE Path)**
 
-I’m a QA professional with over **5 years of experience** ensuring software quality through **manual and automated testing**, working closely with development teams in agile environments.
-
----
-
-## 🧪 What I Do
-- Manual and automated testing for **web and mobile applications**
-- Test automation using **Selenium, Appium, Cypress, Robot Framework**
-- API testing (REST / GraphQL)
-- Test planning, test cases, bug tracking and quality metrics
-- CI/CD integration for automated tests
+Quality-focused engineer with **5+ years of experience** in test automation, API testing, CI/CD pipelines and cloud environments, currently transitioning toward **Site Reliability Engineering (SRE)**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 What I Work With
+- Test automation as code for web, mobile and APIs  
+- Designing reliable test frameworks and pipelines  
+- CI/CD quality gates and test observability  
+- Collaboration with DevOps and platform teams  
+- Preventing production issues through early testing  
 
-### Testing & QA
-- Selenium | Appium | Cypress | Robot Framework  
-- Cucumber | JUnit | TestNG | Rest Assured  
-- Postman | JMeter | Allure  
+---
 
-### Languages
+## 🧪 Testing & Automation
+- Selenium | Cypress | Appium | Robot Framework  
+- API Testing: Rest Assured | Postman  
+- BDD: Cucumber  
+- Reporting: Allure  
+
+---
+
+## ⚙️ Engineering & Reliability
+- CI/CD: Jenkins, Ansible, GitHub Actions  
+- Containers: Docker  
+- Cloud: AWS, Oracle Cloud, Azure Devops  
+- Monitoring (learning): Prometheus, Grafana  
+- Linux, networking fundamentals  
+
+---
+
+## 🧠 Programming
 - Java | Python | JavaScript | TypeScript  
 
-### Dev & Infrastructure
-- Git | GitHub | GitLab  
-- Docker | CI/CD | Jenkins  
-- Linux | Windows  
-- Kubernetes (basic)
+---
 
-### Cloud
-- AWS | Oracle Cloud
+## 🚀 Featured Engineering Projects
 
-### Databases
-- Oracle | PostgreSQL | MySQL  
-- MongoDB | SQL Server  
+### 🔹 Test Automation Platform (SDET)
+- Scalable automation framework (Web + API)  
+- CI/CD integration with quality gates  
+- Metrics-focused reporting  
+
+### 🔹 Reliability-Focused API Testing
+- Contract validation  
+- Failure scenarios and resilience testing  
+- Monitoring integration (early-stage)
+
+### 🔹 CI/CD Quality Engineering
+- Automated test execution per environment  
+- Pipeline stability and failure analysis  
 
 ---
 
-## 📌 About Me
-- ⚽ Soccer enthusiast & 🎸 guitar player  
-- 🤝 Open to collaborating on **community and social projects**  
-- 🌱 Currently learning **Cloud, DevOps and Security for QA**  
+## 🎯 Career Focus
+- Transitioning from **QA Engineer / SDET** to **Site Reliability Engineering (SRE)**  
+- Strong interest in:
+  - Reliability
+  - Observability
+  - Automation at scale
+  - Infrastructure as code
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 - 📧 Email: **glaucopv@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/glauco-vieira](https://www.linkedin.com/in/glauco-vieira)
-- 🐦 Twitter: [@glauco_02](https://twitter.com/glauco_02)
+- 💼 LinkedIn: https://www.linkedin.com/in/glauco-vieira
 
 ---
 
